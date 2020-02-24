@@ -1,6 +1,6 @@
 @font-face{
-font-family: YOUR FONT NAME;
+font-family: Final Frontier Old Style;
 font-style: normal;
 font-weight: 400;
-src: url(YOUR RAW.GITHACK URL) ;
+src: url(https://rawcdn.githack.com/Timespool/Fonts/e236bf9032f58eaa96eca087d8ff08ddd58fc10a/Final_Frontier_Old.txt) ;
 }
