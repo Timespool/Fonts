@@ -1,5 +1,5 @@
 @font-face{
-font-family: Final Frontier Old Style;
+font-family: Final Frontier Old;
 font-style: normal;
 font-weight: 400;
 src: url(https://rawcdn.githack.com/Timespool/Fonts/e236bf9032f58eaa96eca087d8ff08ddd58fc10a/Final_Frontier_Old.txt) ;
